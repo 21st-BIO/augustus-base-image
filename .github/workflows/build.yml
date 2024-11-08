@@ -6,7 +6,7 @@ name: Build Augustus base image to Azure container registry
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
