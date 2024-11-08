@@ -1,3 +1,4 @@
+.idea
 auxprogs/utrrnaseq/build
 auxprogs/utrrnaseq/utrrnaseq
 auxprogs/utrrnaseq/*.gff
